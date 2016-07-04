@@ -1,0 +1,9 @@
+{
+    "result_code": "200000",
+    "security_id": "1111111111111111111111111111111111",
+    "user_info": {
+        "user_id": "001",
+        "user_name": "tom",
+        "avatar": "pig.jpg"
+    }
+}

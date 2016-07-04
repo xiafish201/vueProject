@@ -1,0 +1,503 @@
+ {
+	"code": "200",
+    "description": "success",
+    "detail":[
+    
+    {
+        "id" : 287255,
+        "title" : "重定向 Google 搜索结果页？怎么做到的， Google 搜索的 bug？",
+        "url" : "http://www.v2ex.com/t/287255",
+        "content" : "我的 Google 搜索设置的是在新页面中打开，可是这个网站在新标签中打开以后把原先的搜索页给重定向了，用的是国际版 Google ， https://www.google.com/ncr ，关键词 “丽晶御筑 问题”\u000D\u000A\u000D\u000A点击这条的时候出现的问题，在第 9 页或者十几页\u000D\u000A\u000D\u000A丽晶国际 \u002D AmorGranBuda 高清 MV\u000D\u000Awww.runpeng\u002Dtowel.com.cn/0rjE.html\u000D\u000ATranslate this page\u000D\u000A\u000D\u000Ahttps://www.google.com/url?sa\u003Dt\u0026rct\u003Dj\u0026q\u003D\u0026esrc\u003Ds\u0026source\u003Dweb\u0026cd\u003D86\u0026cad\u003Drja\u0026uact\u003D8\u0026ved\u003D0ahUKEwjNo8mBkbjNAhUK7mMKHWJ0CI04UBAWCEQwBQ\u0026url\u003D%68%74%74%70%3a%2f%2f%77%77%77%2e%72%75%6e%70%65%6e%67%2d%74%6f%77%65%6c%2e%63%6f%6d%2e%63%6e%2f%30%72%6a%45%2e%68%74%6d%6c\u0026usg\u003DAFQjCNGoCiM\u002DNqvWtO8BslegpLRHdkqW_A\u0026sig2\u003DeEL17ucizFeqw_uL5b3SVg",
+        "content_rendered" : "\u003Cp\u003E我的 Google 搜索设置的是在新页面中打开，可是这个网站在新标签中打开以后把原先的搜索页给重定向了，用的是国际版 Google ， \u003Ca href\u003D\u0022https://www.google.com/ncr\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttps://www.google.com/ncr\u003C/a\u003E ，关键词 “丽晶御筑 问题”\u003C/p\u003E\u000A\u003Cp\u003E点击这条的时候出现的问题，在第 9 页或者十几页\u003C/p\u003E\u000A\u003Cp\u003E丽晶国际 \u002D AmorGranBuda 高清 MV\u000A\u003Ca href\u003D\u0022http://www.runpeng\u002Dtowel.com.cn/0rjE.html\u0022 rel\u003D\u0022nofollow\u0022\u003Ewww.runpeng\u002Dtowel.com.cn/0rjE.html\u003C/a\u003E\u000ATranslate this page\u003C/p\u003E\u000A\u003Cp\u003E\u003Ca href\u003D\u0022https://www.google.com/url?sa\u003Dt\u0026amp\u003Brct\u003Dj\u0026amp\u003Bq\u003D\u0026amp\u003Besrc\u003Ds\u0026amp\u003Bsource\u003Dweb\u0026amp\u003Bcd\u003D86\u0026amp\u003Bcad\u003Drja\u0026amp\u003Buact\u003D8\u0026amp\u003Bved\u003D0ahUKEwjNo8mBkbjNAhUK7mMKHWJ0CI04UBAWCEQwBQ\u0026amp\u003Burl\u003D%68%74%74%70%3a%2f%2f%77%77%77%2e%72%75%6e%70%65%6e%67%2d%74%6f%77%65%6c%2e%63%6f%6d%2e%63%6e%2f%30%72%6a%45%2e%68%74%6d%6c\u0026amp\u003Busg\u003DAFQjCNGoCiM\u002DNqvWtO8BslegpLRHdkqW_A\u0026amp\u003Bsig2\u003DeEL17ucizFeqw_uL5b3SVg\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttps://www.google.com/url?sa\u003Dt\u0026amp\u003Brct\u003Dj\u0026amp\u003Bq\u003D\u0026amp\u003Besrc\u003Ds\u0026amp\u003Bsource\u003Dweb\u0026amp\u003Bcd\u003D86\u0026amp\u003Bcad\u003Drja\u0026amp\u003Buact\u003D8\u0026amp\u003Bved\u003D0ahUKEwjNo8mBkbjNAhUK7mMKHWJ0CI04UBAWCEQwBQ\u0026amp\u003Burl\u003D%68%74%74%70%3a%2f%2f%77%77%77%2e%72%75%6e%70%65%6e%67%2d%74%6f%77%65%6c%2e%63%6f%6d%2e%63%6e%2f%30%72%6a%45%2e%68%74%6d%6c\u0026amp\u003Busg\u003DAFQjCNGoCiM\u002DNqvWtO8BslegpLRHdkqW_A\u0026amp\u003Bsig2\u003DeEL17ucizFeqw_uL5b3SVg\u003C/a\u003E\u003C/p\u003E\u000A",
+        "replies" : 0,
+        "member" : {
+            "id" : 161814,
+            "username" : "LimboRunner",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/8722/de6d/161814_mini.png?m=1458029191",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/8722/de6d/161814_normal.png?m=1458029191",
+            "avatar_large" : "//cdn.v2ex.co/avatar/8722/de6d/161814_large.png?m=1458029191"
+        },
+        "node" : {
+            "id" : 65,
+            "name" : "google",
+            "title" : "Google",
+            "title_alternative" : "Google",
+            "url" : "http://www.v2ex.com/go/google",
+            "topics" : 1420,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/fc49/0ca4/65_mini.png?m=1465196106",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/fc49/0ca4/65_normal.png?m=1465196106",
+            "avatar_large" : "//cdn.v2ex.co/navatar/fc49/0ca4/65_large.png?m=1465196106"
+        },
+        "created" : 1466478807,
+        "last_modified" : 1466478807,
+        "last_touched" : 1466478627
+    },
+    
+    {
+        "id" : 287254,
+        "title" : "关于 curl 并发访问出现 502 的错误",
+        "url" : "http://www.v2ex.com/t/287254",
+        "content" : "问题是这样子的：\u000D\u000A\u000D\u000A需要同时请求多个 request ，但是有的 request 我拿不到这些 request 的返回值，是因为这些 request 随机性地会报\u000D\u000A\u000D\u000Ahttp_code 500 的错误，或者 http_code 0 的错误，我后来在回调函数里进行判断，如果不是 http_code 等于 200 的\u000D\u000A\u000D\u000A话，那么我将再请求该 request ，但是到最后会随机性地报 502 的错误，应该怎\u000D\u000A\u000D\u000A么解决这个问题？",
+        "content_rendered" : "\u003Cp\u003E问题是这样子的：\u003C/p\u003E\u000A\u003Cp\u003E需要同时请求多个 request ，但是有的 request 我拿不到这些 request 的返回值，是因为这些 request 随机性地会报\u003C/p\u003E\u000A\u003Cp\u003Ehttp_code 500 的错误，或者 http_code 0 的错误，我后来在回调函数里进行判断，如果不是 http_code 等于 200 的\u003C/p\u003E\u000A\u003Cp\u003E话，那么我将再请求该 request ，但是到最后会随机性地报 502 的错误，应该怎\u003C/p\u003E\u000A\u003Cp\u003E么解决这个问题？\u003C/p\u003E\u000A",
+        "replies" : 1,
+        "member" : {
+            "id" : 107090,
+            "username" : "william23",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/7c3dd3ac50170b12e102eb0a75d58d29?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/7c3dd3ac50170b12e102eb0a75d58d29?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/7c3dd3ac50170b12e102eb0a75d58d29?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 135,
+            "name" : "http",
+            "title" : "HTTP",
+            "title_alternative" : "Hypertext Transport Protocol",
+            "url" : "http://www.v2ex.com/go/http",
+            "topics" : 73,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/7f1d/e29e/135_mini.png?m=1445370101",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/7f1d/e29e/135_normal.png?m=1445370101",
+            "avatar_large" : "//cdn.v2ex.co/navatar/7f1d/e29e/135_large.png?m=1445370101"
+        },
+        "created" : 1466478754,
+        "last_modified" : 1466478754,
+        "last_touched" : 1466478869
+    },
+    
+    {
+        "id" : 287253,
+        "title" : "ECS 无故被初始化... 阿里云到底想干嘛？！",
+        "url" : "http://www.v2ex.com/t/287253",
+        "content" : "今早 10:05 左右我的 ECS 在我没做过任何操作的情况下无故当机（ SSH 无法登录），当机 2\u002D3 分钟之后我选择从管理控制台重启，之后的 15 分钟系统都没有能启动起来（总是处于已停止的状态，点击启动之后还是已停止），于是我提交了工单。\u000D\u000A\u000D\u000A接下来发生的事情真让人大跌眼镜，我的 ECS 启动起来了。当我登录的时候发现 SSH 指纹变了，我心想不好，结果 ECS 好像被初始化了一般，里边的所有文件，所有内容全部清空了，全！部！清！空！了！我问售后工程师，作何解释，然而没有人答复我。我不得不花了一些时间从新配置了一遍服务器让我的网站先可以运行起来。。。\u000D\u000A\u000D\u000A然而直到现在也没有人给我一个合理的解释，为什么我的 ECS 被无故初始化了？！谁让你们在未经客户允许的情况下这么做的？",
+        "content_rendered" : "今早 10:05 左右我的 ECS 在我没做过任何操作的情况下无故当机（ SSH 无法登录），当机 2\u002D3 分钟之后我选择从管理控制台重启，之后的 15 分钟系统都没有能启动起来（总是处于已停止的状态，点击启动之后还是已停止），于是我提交了工单。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E接下来发生的事情真让人大跌眼镜，我的 ECS 启动起来了。当我登录的时候发现 SSH 指纹变了，我心想不好，结果 ECS 好像被初始化了一般，里边的所有文件，所有内容全部清空了，全！部！清！空！了！我问售后工程师，作何解释，然而没有人答复我。我不得不花了一些时间从新配置了一遍服务器让我的网站先可以运行起来。。。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E然而直到现在也没有人给我一个合理的解释，为什么我的 ECS 被无故初始化了？！谁让你们在未经客户允许的情况下这么做的？",
+        "replies" : 6,
+        "member" : {
+            "id" : 13718,
+            "username" : "heat",
+            "tagline" : "moment",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/1746/3ec4/13718_mini.png?m=1459679947",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/1746/3ec4/13718_normal.png?m=1459679947",
+            "avatar_large" : "//cdn.v2ex.co/avatar/1746/3ec4/13718_large.png?m=1459679947"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 71403,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1466294049",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1466294049",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1466294049"
+        },
+        "created" : 1466478747,
+        "last_modified" : 1466478788,
+        "last_touched" : 1466479487
+    },
+    
+    {
+        "id" : 287252,
+        "title" : "我又做了一期音频，坚持一百期之第四期——任天堂的前生今世(1)",
+        "url" : "http://www.v2ex.com/t/287252",
+        "content" : "本期的要点有:\u000D\u000A\u000D\u000A\u002D 日本明治维新结束后，山内家族创立任天堂作坊\u000D\u000A\u002D 山内家族只有女儿，连续两代让入赘的女婿继承\u000D\u000A\u002D 第三代女婿, 也就是山内溥的老爸，为爱私奔了，第三代企业交给了山内溥的手上\u000D\u000A\u002D  山内溥接手公司后，对公司大清洗，完成了对任天堂的绝对管理\u000D\u000A\u002D 合作米老鼠后，任天堂一跃成为日本最大的纸牌生产者\u000D\u000A\u002D 山内溥去艺妓店给女儿过 20 岁生日\u000D\u000A\u000D\u000A音频地址:\u000D\u000A\u002D 网易云音乐 http://music.163.com/#/djradio?id\u003D336387122\u000D\u000A\u002D 喜马拉雅  http://www.ximalaya.com/46905980/sound/\u000D\u000A\u002D 微信公众号( 这里有文本，受不了我声音的可以看文本 ) http://mp.weixin.qq.com/s?__biz\u003DMzI0MjM5MTUxOQ\u003D\u003D\u0026mid\u003D2247483694\u0026idx\u003D1\u0026sn\u003Dd4e1c350dfa15bd258746e4a0513623b\u0026scene\u003D0\u000D\u000A\u000D\u000A前三期在这里:\u000D\u000A\u000D\u000A\u002D http://v2ex.com/t/284793 \u000D\u000A\u002D http://v2ex.com/t/285375\u000D\u000A\u002D http://v2ex.com/t/286306",
+        "content_rendered" : "\u003Cp\u003E本期的要点有:\u003C/p\u003E\u000A\u003Cul\u003E\u000A\u003Cli\u003E日本明治维新结束后，山内家族创立任天堂作坊\u003C/li\u003E\u000A\u003Cli\u003E山内家族只有女儿，连续两代让入赘的女婿继承\u003C/li\u003E\u000A\u003Cli\u003E第三代女婿, 也就是山内溥的老爸，为爱私奔了，第三代企业交给了山内溥的手上\u003C/li\u003E\u000A\u003Cli\u003E山内溥接手公司后，对公司大清洗，完成了对任天堂的绝对管理\u003C/li\u003E\u000A\u003Cli\u003E合作米老鼠后，任天堂一跃成为日本最大的纸牌生产者\u003C/li\u003E\u000A\u003Cli\u003E山内溥去艺妓店给女儿过 20 岁生日\u003C/li\u003E\u000A\u003C/ul\u003E\u000A\u003Cp\u003E音频地址:\u003C/p\u003E\u000A\u003Cul\u003E\u000A\u003Cli\u003E网易云音乐 \u003Ca href\u003D\u0022http://music.163.com/#/djradio?id\u003D336387122\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://music.163.com/#/djradio?id\u003D336387122\u003C/a\u003E\u003C/li\u003E\u000A\u003Cli\u003E喜马拉雅  \u003Ca href\u003D\u0022http://www.ximalaya.com/46905980/sound/\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://www.ximalaya.com/46905980/sound/\u003C/a\u003E\u003C/li\u003E\u000A\u003Cli\u003E微信公众号( 这里有文本，受不了我声音的可以看文本 ) \u003Ca href\u003D\u0022http://mp.weixin.qq.com/s?__biz\u003DMzI0MjM5MTUxOQ\u003D\u003D\u0026amp\u003Bmid\u003D2247483694\u0026amp\u003Bidx\u003D1\u0026amp\u003Bsn\u003Dd4e1c350dfa15bd258746e4a0513623b\u0026amp\u003Bscene\u003D0\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://mp.weixin.qq.com/s?__biz\u003DMzI0MjM5MTUxOQ\u003D\u003D\u0026amp\u003Bmid\u003D2247483694\u0026amp\u003Bidx\u003D1\u0026amp\u003Bsn\u003Dd4e1c350dfa15bd258746e4a0513623b\u0026amp\u003Bscene\u003D0\u003C/a\u003E\u003C/li\u003E\u000A\u003C/ul\u003E\u000A\u003Cp\u003E前三期在这里:\u003C/p\u003E\u000A\u003Cul\u003E\u000A\u003Cli\u003E\u003Ca href\u003D\u0022http://v2ex.com/t/284793\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://v2ex.com/t/284793\u003C/a\u003E\u003C/li\u003E\u000A\u003Cli\u003E\u003Ca href\u003D\u0022http://v2ex.com/t/285375\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://v2ex.com/t/285375\u003C/a\u003E\u003C/li\u003E\u000A\u003Cli\u003E\u003Ca href\u003D\u0022http://v2ex.com/t/286306\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://v2ex.com/t/286306\u003C/a\u003E\u003C/li\u003E\u000A\u003C/ul\u003E\u000A",
+        "replies" : 0,
+        "member" : {
+            "id" : 43644,
+            "username" : "inet6",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/37f4/960c/43644_mini.png?m=1444307337",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/37f4/960c/43644_normal.png?m=1444307337",
+            "avatar_large" : "//cdn.v2ex.co/avatar/37f4/960c/43644_large.png?m=1444307337"
+        },
+        "node" : {
+            "id" : 17,
+            "name" : "create",
+            "title" : "分享创造",
+            "title_alternative" : "Create",
+            "url" : "http://www.v2ex.com/go/create",
+            "topics" : 5723,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/70ef/df2e/17_mini.png?m=1466116482",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/70ef/df2e/17_normal.png?m=1466116482",
+            "avatar_large" : "//cdn.v2ex.co/navatar/70ef/df2e/17_large.png?m=1466116482"
+        },
+        "created" : 1466478690,
+        "last_modified" : 1466478949,
+        "last_touched" : 1466478510
+    },
+    
+    {
+        "id" : 287251,
+        "title" : "Ubuntu\u002Dcore ARM 版的怎么添加内核模块？",
+        "url" : "http://www.v2ex.com/t/287251",
+        "content" : "买了一个友善之臂的 PI ，安装了他们提供的 ubuntu\u002Dcore 的系统，但是发现很多模块没有加载，现在需要一个 tcp 的内核模块，我该怎么用方便快速的方式重新从内核里加载那个模块呢？拜托各位啦。。\u000D\u000A网上的教程太复杂啦。。或者有没有办法直接装 centos 7 arm banana 版本的镜像？我感觉配置应该差不多，不知道能否直接用。。。",
+        "content_rendered" : "买了一个友善之臂的 PI ，安装了他们提供的 ubuntu\u002Dcore 的系统，但是发现很多模块没有加载，现在需要一个 tcp 的内核模块，我该怎么用方便快速的方式重新从内核里加载那个模块呢？拜托各位啦。。\u000D\u003Cbr /\u003E网上的教程太复杂啦。。或者有没有办法直接装 centos 7 arm banana 版本的镜像？我感觉配置应该差不多，不知道能否直接用。。。",
+        "replies" : 2,
+        "member" : {
+            "id" : 62072,
+            "username" : "Themyth",
+            "tagline" : "qq 410733",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/8d2e/f026/62072_mini.png?m=1401978098",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/8d2e/f026/62072_normal.png?m=1401978098",
+            "avatar_large" : "//cdn.v2ex.co/avatar/8d2e/f026/62072_large.png?m=1401978098"
+        },
+        "node" : {
+            "id" : 11,
+            "name" : "linux",
+            "title" : "Linux",
+            "title_alternative" : "Linux",
+            "url" : "http://www.v2ex.com/go/linux",
+            "topics" : 2496,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/6512/bd43/11_mini.png?m=1466143451",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/6512/bd43/11_normal.png?m=1466143451",
+            "avatar_large" : "//cdn.v2ex.co/navatar/6512/bd43/11_large.png?m=1466143451"
+        },
+        "created" : 1466478615,
+        "last_modified" : 1466478615,
+        "last_touched" : 1466479406
+    },
+    
+    {
+        "id" : 287250,
+        "title" : "知网试用账号不知道有没有有需求的",
+        "url" : "http://www.v2ex.com/t/287250",
+        "content" : "既然 V2 那么多的程序猿，想到合作的一家公司程序猿对知网文章的需求量那么大， V2EX 的同学们会不会也有需求呢。\u000D\u000A\u000D\u000A试一试不会吃亏，试一试不会上当，试一试也不会怀孕啊～\u000D\u000A\u000D\u000A看能不能搞一场 V2EX 的 super vip 试用活动～\u000D\u000A\u000D\u000A什么？？？居然有人没用过知网？？？？\u000D\u000A\u000D\u000A主页君是 www.cnki.net 啊",
+        "content_rendered" : "\u003Cp\u003E既然 V2 那么多的程序猿，想到合作的一家公司程序猿对知网文章的需求量那么大， V2EX 的同学们会不会也有需求呢。\u003C/p\u003E\u000A\u003Cp\u003E试一试不会吃亏，试一试不会上当，试一试也不会怀孕啊～\u003C/p\u003E\u000A\u003Cp\u003E看能不能搞一场 V2EX 的 super vip 试用活动～\u003C/p\u003E\u000A\u003Cp\u003E什么？？？居然有人没用过知网？？？？\u003C/p\u003E\u000A\u003Cp\u003E主页君是 \u003Ca href\u003D\u0022http://www.cnki.net\u0022 rel\u003D\u0022nofollow\u0022\u003Ewww.cnki.net\u003C/a\u003E 啊\u003C/p\u003E\u000A",
+        "replies" : 2,
+        "member" : {
+            "id" : 150089,
+            "username" : "stepnew",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/105666d87c8ac95ef796b6e59e4b5fe2?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/105666d87c8ac95ef796b6e59e4b5fe2?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/105666d87c8ac95ef796b6e59e4b5fe2?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 56,
+            "name" : "internet",
+            "title" : "互联网",
+            "title_alternative" : "Internet",
+            "url" : "http://www.v2ex.com/go/internet",
+            "topics" : 1024,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/9f61/408e/56_mini.png?m=1466293853",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/9f61/408e/56_normal.png?m=1466293853",
+            "avatar_large" : "//cdn.v2ex.co/navatar/9f61/408e/56_large.png?m=1466293853"
+        },
+        "created" : 1466478435,
+        "last_modified" : 1466478435,
+        "last_touched" : 1466478930
+    },
+    
+    {
+        "id" : 287248,
+        "title" : "Siri 开源了， 33%的开发者持疑虑态度，你呢？",
+        "url" : "http://www.v2ex.com/t/287248",
+        "content" : "33%的中国开发者对 Siri 开放持疑虑态度？\u000D\u000A\u000D\u000A目前来说在 iOS 10 中， Siri API 仅仅支持六类应用程序：打车，通讯，照片搜索，支付，网络电话和锻炼。另外还有一个面向汽车制造商的特殊使用案例，让用户通过汽车专有的 CarPlay 应用来调整其汽车当中的设置。这意味着 Siri API 并非对任何人开放。\u000D\u000A\u000D\u000A前日，拥有 30 万+开发者的 APICloud 在官方微信中做了一个小小的投票，询问开发者是否愿意接入 Siri API 。截止今日共有 90 位开发者参与投票，其中 59 位开发者愿意将 Siri API 接入到自己开发的应用当中，占 66%的比例。此外还有 21 位开发者选择处于观望状态， 10 位开发者选择不会接入。\u000D\u000A\u000D\u000AAPICloud 的 CTO 邹达表示： Siri API 开放的消息一出，我们就进行了调研，大部分开发者还是很期待 Siri ，部分不愿意接受的原因可能是怕不稳定和担忧信息安全因素，另外使用 Siri 必须满足的条件也限制了一些开发者的使用。但做为 APP 开发平台， APICloud 还是决定下周内将 Siri 功能上线于模块商店中，供开发者了解和使用。\u000D\u000A\u000D\u000A使用 Siri 功能必须满足以下三个条件：\u000D\u000A\u000D\u000A1.当前设备 siri 为开启状态；\u000D\u000A\u000D\u000A2.App 申请 siri 权限（配置 plist ），系统弹出提示框让用户选择允许不允许（类似定位功能的）；\u000D\u000A\u000D\u000A3.App 必须是以下六类的 App ，否则苹果商店审核拒绝。\u000D\u000A\u000D\u000A什么类型的 APP 适合介入 Siri ？\u000D\u000A\u000D\u000A根据对苹果文档的解读，中国开发者如果是开发如下几类 app 那么可以考虑添加 siri 功能，提高用户体验。\u000D\u000A\u000D\u000A1.\u0009Calling intents support audio and video calls to another user of your app. （网络电话类）\u000D\u000A2.\u0009Workout intents support the starting and stopping of workouts.（健身类）\u000D\u000A3.\u0009Message intents support the sending of message data to specific users （通讯类）\u000D\u000A4.\u0009Payment intents support financial transactions between your app and the user. （支付类）\u000D\u000A5.\u0009Photo intents support the searching and displaying of photos. （图片浏览，语音搜索图片）\u000D\u000A6.\u0009Ride sharing intents support the booking and management of user transportation.（打车预定）\u000D\u000A\u000D\u000A针对以上支持的六类 App ， Siri 功能提供了六款 API ： Calls Domain 、 CarPlay\u0026 Radio Domains 、 Messages Domain 、 Payments Domain 、 Workouts Domain 、 Photos Domain 和 Ridesharing Domain 。此外， Siri 的声音分为男女两声，并和 iOS 系统相同可支持 100 多种语言。",
+        "content_rendered" : "\u003Cp\u003E33%的中国开发者对 Siri 开放持疑虑态度？\u003C/p\u003E\u000A\u003Cp\u003E目前来说在 iOS 10 中， Siri API 仅仅支持六类应用程序：打车，通讯，照片搜索，支付，网络电话和锻炼。另外还有一个面向汽车制造商的特殊使用案例，让用户通过汽车专有的 CarPlay 应用来调整其汽车当中的设置。这意味着 Siri API 并非对任何人开放。\u003C/p\u003E\u000A\u003Cp\u003E前日，拥有 30 万+开发者的 APICloud 在官方微信中做了一个小小的投票，询问开发者是否愿意接入 Siri API 。截止今日共有 90 位开发者参与投票，其中 59 位开发者愿意将 Siri API 接入到自己开发的应用当中，占 66%的比例。此外还有 21 位开发者选择处于观望状态， 10 位开发者选择不会接入。\u003C/p\u003E\u000A\u003Cp\u003EAPICloud 的 CTO 邹达表示： Siri API 开放的消息一出，我们就进行了调研，大部分开发者还是很期待 Siri ，部分不愿意接受的原因可能是怕不稳定和担忧信息安全因素，另外使用 Siri 必须满足的条件也限制了一些开发者的使用。但做为 APP 开发平台， APICloud 还是决定下周内将 Siri 功能上线于模块商店中，供开发者了解和使用。\u003C/p\u003E\u000A\u003Cp\u003E使用 Siri 功能必须满足以下三个条件：\u003C/p\u003E\u000A\u003Cp\u003E1.当前设备 siri 为开启状态；\u003C/p\u003E\u000A\u003Cp\u003E2.App 申请 siri 权限（配置 plist ），系统弹出提示框让用户选择允许不允许（类似定位功能的）；\u003C/p\u003E\u000A\u003Cp\u003E3.App 必须是以下六类的 App ，否则苹果商店审核拒绝。\u003C/p\u003E\u000A\u003Cp\u003E什么类型的 APP 适合介入 Siri ？\u003C/p\u003E\u000A\u003Cp\u003E根据对苹果文档的解读，中国开发者如果是开发如下几类 app 那么可以考虑添加 siri 功能，提高用户体验。\u003C/p\u003E\u000A\u003Col\u003E\u000A\u003Cli\u003ECalling intents support audio and video calls to another user of your app. （网络电话类）\u003C/li\u003E\u000A\u003Cli\u003EWorkout intents support the starting and stopping of workouts.（健身类）\u003C/li\u003E\u000A\u003Cli\u003EMessage intents support the sending of message data to specific users （通讯类）\u003C/li\u003E\u000A\u003Cli\u003EPayment intents support financial transactions between your app and the user. （支付类）\u003C/li\u003E\u000A\u003Cli\u003EPhoto intents support the searching and displaying of photos. （图片浏览，语音搜索图片）\u003C/li\u003E\u000A\u003Cli\u003ERide sharing intents support the booking and management of user transportation.（打车预定）\u003C/li\u003E\u000A\u003C/ol\u003E\u000A\u003Cp\u003E针对以上支持的六类 App ， Siri 功能提供了六款 API ： Calls Domain 、 CarPlay\u0026amp\u003B Radio Domains 、 Messages Domain 、 Payments Domain 、 Workouts Domain 、 Photos Domain 和 Ridesharing Domain 。此外， Siri 的声音分为男女两声，并和 iOS 系统相同可支持 100 多种语言。\u003C/p\u003E\u000A",
+        "replies" : 5,
+        "member" : {
+            "id" : 86027,
+            "username" : "afterall",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/323adf56131899218aaddac9686b9d9d?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/323adf56131899218aaddac9686b9d9d?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/323adf56131899218aaddac9686b9d9d?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 71403,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1466294049",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1466294049",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1466294049"
+        },
+        "created" : 1466478026,
+        "last_modified" : 1466478026,
+        "last_touched" : 1466479240
+    },
+    
+    {
+        "id" : 287247,
+        "title" : "案例大赏 | 又一波 Amaze UI 案例登陆优站精选，快来投稿吧",
+        "url" : "http://www.v2ex.com/t/287247",
+        "content" : "\u003Cp\u003EAmaze\u0026nbsp\u003BUI 是中国首个开源\u0026nbsp\u003BHTML5\u0026nbsp\u003B前端框架，可用于快速开发响应式网站和高性能 Web\u0026nbsp\u003BApp ，现包含 Amaze\u0026nbsp\u003BUI\u0026nbsp\u003BWeb 和 Amaze\u0026nbsp\u003BUI\u0026nbsp\u003BTouch 两个版本。在 Github 上 star 超过 7200 ，目前服务于超过 40 万开发者。\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp\u003E在众多使用 Amaze UI 开发者中，涌现了很多精品案例，今天就给大家带来 10 个基于 Amaze UI 开发的移动网站以及响应式网站案例。\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp style\u003D\u0022text\u002Dalign:center\u0022\u003E\u003Cspan style\u003D\u0022font\u002Dsize:16px\u0022\u003E\u003Cstrong\u003E移动网站\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp\u003E\u003Cstrong\u003E言色\u003C/strong\u003E，语音图片分享社区，微信内 Web App ，可以通过语音、主题、配乐、插图、文字进行美好事物的分享。（\u003Cstrong\u003E注：此网站仅能在微信端打开\u003C/strong\u003E）\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp style\u003D\u0022text\u002Dalign:center\u0022\u003E\u003Cimg alt\u003D\u0022\u0022 height\u003D\u0022429\u0022 src\u003D\u0022http://static.oschina.net/uploads/space/2016/0621/103430_UHA3_1792607.png\u0022 width\u003D\u0022545\u0022 /\u003E\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp\u003E\u0026nbsp\u003B\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp style\u003D\u0022text\u002Dalign:center\u0022\u003E扫码体验\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp style\u003D\u0022text\u002Dalign:center\u0022\u003E\u0026darr\u003B\u0026darr\u003B\u0026darr\u003B\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp style\u003D\u0022text\u002Dalign:center\u0022\u003E\u003Cimg alt\u003D\u0022\u0022 height\u003D\u0022280\u0022 src\u003D\u0022http://static.oschina.net/uploads/space/2016/0621/104528_VyXu_1792607.png\u0022 width\u003D\u0022280\u0022 /\u003E\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp\u003E\u0026nbsp\u003B\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp\u003E\u003Cstrong\u003E诠音网的移动版\u003C/strong\u003E，请使用手机 or 移动平台访问，无刷新结构，部分借鉴了网易云音乐的 APP ，包括推荐、乐单、收藏、活动、排行、圈子等板块。\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp style\u003D\u0022text\u002Dalign:center\u0022\u003E\u003Cimg alt\u003D\u0022\u0022 height\u003D\u0022431\u0022 src\u003D\u0022http://static.oschina.net/uploads/space/2016/0621/103555_Y6Qi_1792607.png\u0022 width\u003D\u0022539\u0022 /\u003E\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp\u003E\u0026nbsp\u003B\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp style\u003D\u0022text\u002Dalign:center\u0022\u003E扫码体验\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp style\u003D\u0022text\u002Dalign:center\u0022\u003E\u0026darr\u003B\u0026darr\u003B\u0026darr\u003B\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp style\u003D\u0022text\u002Dalign:center\u0022\u003E\u003Cimg alt\u003D\u0022\u0022 height\u003D\u0022280\u0022 src\u003D\u0022http://static.oschina.net/uploads/space/2016/0621/104541_oyyi_1792607.png\u0022 width\u003D\u0022280\u0022 /\u003E\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp\u003E\u003Cstrong\u003E觅阿姨\u003C/strong\u003E，属于南京赛文特家政服务中心旗下品牌。是江苏省家庭服务协会会员单位。是一家主要为忙碌的成功人士家庭提供高品质家庭服务的家政服务平台。\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp style\u003D\u0022text\u002Dalign:center\u0022\u003E\u003Cimg alt\u003D\u0022\u0022 height\u003D\u0022420\u0022 src\u003D\u0022http://static.oschina.net/uploads/space/2016/0621/103609_ZfOZ_1792607.png\u0022 width\u003D\u0022570\u0022 /\u003E\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp\u003E\u0026nbsp\u003B\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp style\u003D\u0022text\u002Dalign:center\u0022\u003E扫码体验\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp style\u003D\u0022text\u002Dalign:center\u0022\u003E\u0026darr\u003B\u0026darr\u003B\u0026darr\u003B\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp style\u003D\u0022text\u002Dalign:center\u0022\u003E\u003Cimg alt\u003D\u0022\u0022 height\u003D\u0022280\u0022 src\u003D\u0022http://static.oschina.net/uploads/space/2016/0621/104601_OhqO_1792607.png\u0022 width\u003D\u0022280\u0022 /\u003E\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp\u003E\u003Cstrong\u003E布谷视频\u003C/strong\u003E，基于 Amaze UI 开发的一个微信视频直播网站，支持直播、录播、评论等基本视频、直播网站功能。\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp style\u003D\u0022text\u002Dalign:center\u0022\u003E\u003Cimg alt\u003D\u0022\u0022 height\u003D\u0022441\u0022 src\u003D\u0022http://static.oschina.net/uploads/space/2016/0621/103622_2gGR_1792607.png\u0022 width\u003D\u0022548\u0022 /\u003E\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp\u003E\u0026nbsp\u003B\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp style\u003D\u0022text\u002Dalign:center\u0022\u003E扫码体验\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp style\u003D\u0022text\u002Dalign:center\u0022\u003E\u0026darr\u003B\u0026darr\u003B\u0026darr\u003B\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp style\u003D\u0022text\u002Dalign:center\u0022\u003E\u003Cimg alt\u003D\u0022\u0022 height\u003D\u0022280\u0022 src\u003D\u0022http://static.oschina.net/uploads/space/2016/0621/104650_Mq1d_1792607.png\u0022 width\u003D\u0022280\u0022 /\u003E\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp\u003E\u003Cstrong\u003E扬州商街\u003C/strong\u003E：扬州商街，吃喝玩乐全汇集，多个品牌入驻，多种优惠力度，任你选择。\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp style\u003D\u0022text\u002Dalign:center\u0022\u003E\u003Cimg alt\u003D\u0022\u0022 src\u003D\u0022http://static.oschina.net/uploads/space/2016/0621/103639_j5wo_1792607.png\u0022 /\u003E\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp\u003E\u0026nbsp\u003B\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp style\u003D\u0022text\u002Dalign:center\u0022\u003E扫码体验\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp style\u003D\u0022text\u002Dalign:center\u0022\u003E\u0026darr\u003B\u0026darr\u003B\u0026darr\u003B\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp style\u003D\u0022text\u002Dalign:center\u0022\u003E\u003Cimg alt\u003D\u0022\u0022 height\u003D\u0022280\u0022 src\u003D\u0022http://static.oschina.net/uploads/space/2016/0621/104702_1VM3_1792607.png\u0022 width\u003D\u0022280\u0022 /\u003E\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp\u003E\u0026nbsp\u003B\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp\u003E\u0026nbsp\u003B\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp\u003E\u0026nbsp\u003B\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp style\u003D\u0022text\u002Dalign:center\u0022\u003E\u003Cspan style\u003D\u0022color:#FF0000\u0022\u003E\u003Cstrong\u003E响应式网站\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp\u003E响应式网站指的是，一次开发就可以智能地根据用户行为以及使用的设备环境（系统平台、屏幕尺寸、屏幕定向等）进行相对应的布局。\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp\u003E\u003Cstrong\u003E「无蕴」\u003C/strong\u003E是出现在当下日常生活中，继承传统民族文化习惯的日用品牌。致力于传播传统的生活理念和传续民族情感中深厚细腻的美学感知。通过闻香言茶，格物明智，使我们已经遗忘的传统价值美学观重返当代生活。\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp style\u003D\u0022text\u002Dalign:center\u0022\u003E\u003Cimg alt\u003D\u0022\u0022 height\u003D\u0022380\u0022 src\u003D\u0022http://static.oschina.net/uploads/space/2016/0621/103653_LvzV_1792607.png\u0022 width\u003D\u0022600\u0022 /\u003E\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp style\u003D\u0022text\u002Dalign:center\u0022\u003E扫码体验\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp style\u003D\u0022text\u002Dalign:center\u0022\u003E\u0026darr\u003B\u0026darr\u003B\u0026darr\u003B\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp style\u003D\u0022text\u002Dalign:center\u0022\u003E\u003Cimg alt\u003D\u0022\u0022 height\u003D\u0022280\u0022 src\u003D\u0022http://static.oschina.net/uploads/space/2016/0621/104157_YmEo_1792607.png\u0022 width\u003D\u0022280\u0022 /\u003E\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp\u003E\u003Cstrong\u003Esolove 素乐官方网站\u003C/strong\u003E \u002D 是移动电源，亦是饰品\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp style\u003D\u0022text\u002Dalign:center\u0022\u003E\u003Cimg alt\u003D\u0022\u0022 height\u003D\u0022380\u0022 src\u003D\u0022http://static.oschina.net/uploads/space/2016/0621/103717_6V4w_1792607.png\u0022 width\u003D\u0022600\u0022 /\u003E\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp style\u003D\u0022text\u002Dalign:center\u0022\u003E扫码体验\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp style\u003D\u0022text\u002Dalign:center\u0022\u003E\u0026darr\u003B\u0026darr\u003B\u0026darr\u003B\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp style\u003D\u0022text\u002Dalign:center\u0022\u003E\u003Cimg alt\u003D\u0022\u0022 height\u003D\u0022280\u0022 src\u003D\u0022http://static.oschina.net/uploads/space/2016/0621/104212_BZTA_1792607.png\u0022 width\u003D\u0022280\u0022 /\u003E\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp\u003E\u0026nbsp\u003B\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp\u003E\u003Cstrong\u003EHTML5 梦工场\u003C/strong\u003E是中国大陆最大的 HTML5 社区和最有影响力手游媒体， HTML5 梦工场内容涵盖最新、最全的手机游戏资讯、手机游戏下载、及时准确的手机游戏测试信息、最丰富的手机游戏活动、发号、测试表和手游礼包等。 \u0026nbsp\u003B \u0026nbsp\u003B \u0026nbsp\u003B \u0026nbsp\u003B \u0026nbsp\u003B \u0026nbsp\u003B \u0026nbsp\u003B \u0026nbsp\u003B \u0026nbsp\u003B \u0026nbsp\u003B\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp style\u003D\u0022text\u002Dalign:center\u0022\u003E\u003Cimg alt\u003D\u0022\u0022 height\u003D\u0022380\u0022 src\u003D\u0022http://static.oschina.net/uploads/space/2016/0621/103734_8iUL_1792607.png\u0022 width\u003D\u0022600\u0022 /\u003E\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp style\u003D\u0022text\u002Dalign:center\u0022\u003E扫码体验\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp style\u003D\u0022text\u002Dalign:center\u0022\u003E\u0026darr\u003B\u0026darr\u003B\u0026darr\u003B\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp style\u003D\u0022text\u002Dalign:center\u0022\u003E\u003Cimg alt\u003D\u0022\u0022 height\u003D\u0022280\u0022 src\u003D\u0022http://static.oschina.net/uploads/space/2016/0621/104224_rZ1U_1792607.png\u0022 width\u003D\u0022280\u0022 /\u003E\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp\u003E\u0026nbsp\u003B\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp\u003E\u003Cstrong\u003E宠物秀\u003C/strong\u003E最有趣的萌宠社区，快来一起秀我们的爱宠吧！有宠物猫、宠物狗、加菲猫、哈士奇、金毛、美国短毛猫、英国短毛猫等等各种宠物的宠物涂鸦，你还可以看到新鲜事等各种趣闻。\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp style\u003D\u0022text\u002Dalign:center\u0022\u003E\u003Cimg alt\u003D\u0022\u0022 height\u003D\u0022380\u0022 src\u003D\u0022http://static.oschina.net/uploads/space/2016/0621/103839_U0q7_1792607.jpg\u0022 width\u003D\u0022600\u0022 /\u003E\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp\u003E\u0026nbsp\u003B\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp style\u003D\u0022text\u002Dalign:center\u0022\u003E扫码体验\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp style\u003D\u0022text\u002Dalign:center\u0022\u003E\u0026darr\u003B\u0026darr\u003B\u0026darr\u003B\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp style\u003D\u0022text\u002Dalign:center\u0022\u003E\u003Cimg alt\u003D\u0022\u0022 height\u003D\u0022280\u0022 src\u003D\u0022http://static.oschina.net/uploads/space/2016/0621/104331_qU9q_1792607.png\u0022 width\u003D\u0022280\u0022 /\u003E\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp\u003E\u0026nbsp\u003B\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp style\u003D\u0022text\u002Dalign:center\u0022\u003E\u003Cstrong\u003E简点创意\u003C/strong\u003E\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp style\u003D\u0022text\u002Dalign:center\u0022\u003E\u003Cimg alt\u003D\u0022\u0022 height\u003D\u0022380\u0022 src\u003D\u0022http://static.oschina.net/uploads/space/2016/0621/103926_nImV_1792607.jpg\u0022 width\u003D\u0022600\u0022 /\u003E\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp\u003E\u0026nbsp\u003B\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp style\u003D\u0022text\u002Dalign:center\u0022\u003E扫码体验\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp style\u003D\u0022text\u002Dalign:center\u0022\u003E\u0026darr\u003B\u0026darr\u003B\u0026darr\u003B\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp style\u003D\u0022text\u002Dalign:center\u0022\u003E\u003Cimg alt\u003D\u0022\u0022 height\u003D\u0022280\u0022 src\u003D\u0022http://static.oschina.net/uploads/space/2016/0621/104346_IfL3_1792607.png\u0022 width\u003D\u0022280\u0022 /\u003E\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp\u003E\u0026nbsp\u003B\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp\u003E秀出你的作品\u003C/p\u003E\u000D\u000A\u000D\u000A\u003Cp\u003E\u003Ca href\u003D\u0022http://amazeui.github.io/cases/\u0022\u003E点击这里\u003C/a\u003E，提交 Amaze UI 案例\u003C/p\u003E",
+        "content_rendered" : "\u003Cp\u003EAmaze UI 是中国首个开源 HTML5 前端框架，可用于快速开发响应式网站和高性能 Web App ，现包含 Amaze UI Web 和 Amaze UI Touch 两个版本。在 Github 上 star 超过 7200 ，目前服务于超过 40 万开发者。\u003C/p\u003E\u000A\u003Cp\u003E在众多使用 Amaze UI 开发者中，涌现了很多精品案例，今天就给大家带来 10 个基于 Amaze UI 开发的移动网站以及响应式网站案例。\u003C/p\u003E\u000A\u003Cp\u003E\u003Cspan\u003E\u003Cstrong\u003E移动网站\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E\u000A\u003Cp\u003E\u003Cstrong\u003E言色\u003C/strong\u003E，语音图片分享社区，微信内 Web App ，可以通过语音、主题、配乐、插图、文字进行美好事物的分享。（\u003Cstrong\u003E注：此网站仅能在微信端打开\u003C/strong\u003E）\u003C/p\u003E\u000A\u003Cp\u003E\u003Cimg alt\u003D\u0022\u0022 src\u003D\u0022http://static.oschina.net/uploads/space/2016/0621/103430_UHA3_1792607.png\u0022\u003E\u003C/p\u003E\u000A\u003Cp\u003E \u003C/p\u003E\u000A\u003Cp\u003E扫码体验\u003C/p\u003E\u000A\u003Cp\u003E↓↓↓\u003C/p\u003E\u000A\u003Cp\u003E\u003Cimg alt\u003D\u0022\u0022 src\u003D\u0022http://static.oschina.net/uploads/space/2016/0621/104528_VyXu_1792607.png\u0022\u003E\u003C/p\u003E\u000A\u003Cp\u003E \u003C/p\u003E\u000A\u003Cp\u003E\u003Cstrong\u003E诠音网的移动版\u003C/strong\u003E，请使用手机 or 移动平台访问，无刷新结构，部分借鉴了网易云音乐的 APP ，包括推荐、乐单、收藏、活动、排行、圈子等板块。\u003C/p\u003E\u000A\u003Cp\u003E\u003Cimg alt\u003D\u0022\u0022 src\u003D\u0022http://static.oschina.net/uploads/space/2016/0621/103555_Y6Qi_1792607.png\u0022\u003E\u003C/p\u003E\u000A\u003Cp\u003E \u003C/p\u003E\u000A\u003Cp\u003E扫码体验\u003C/p\u003E\u000A\u003Cp\u003E↓↓↓\u003C/p\u003E\u000A\u003Cp\u003E\u003Cimg alt\u003D\u0022\u0022 src\u003D\u0022http://static.oschina.net/uploads/space/2016/0621/104541_oyyi_1792607.png\u0022\u003E\u003C/p\u003E\u000A\u003Cp\u003E\u003Cstrong\u003E觅阿姨\u003C/strong\u003E，属于南京赛文特家政服务中心旗下品牌。是江苏省家庭服务协会会员单位。是一家主要为忙碌的成功人士家庭提供高品质家庭服务的家政服务平台。\u003C/p\u003E\u000A\u003Cp\u003E\u003Cimg alt\u003D\u0022\u0022 src\u003D\u0022http://static.oschina.net/uploads/space/2016/0621/103609_ZfOZ_1792607.png\u0022\u003E\u003C/p\u003E\u000A\u003Cp\u003E \u003C/p\u003E\u000A\u003Cp\u003E扫码体验\u003C/p\u003E\u000A\u003Cp\u003E↓↓↓\u003C/p\u003E\u000A\u003Cp\u003E\u003Cimg alt\u003D\u0022\u0022 src\u003D\u0022http://static.oschina.net/uploads/space/2016/0621/104601_OhqO_1792607.png\u0022\u003E\u003C/p\u003E\u000A\u003Cp\u003E\u003Cstrong\u003E布谷视频\u003C/strong\u003E，基于 Amaze UI 开发的一个微信视频直播网站，支持直播、录播、评论等基本视频、直播网站功能。\u003C/p\u003E\u000A\u003Cp\u003E\u003Cimg alt\u003D\u0022\u0022 src\u003D\u0022http://static.oschina.net/uploads/space/2016/0621/103622_2gGR_1792607.png\u0022\u003E\u003C/p\u003E\u000A\u003Cp\u003E \u003C/p\u003E\u000A\u003Cp\u003E扫码体验\u003C/p\u003E\u000A\u003Cp\u003E↓↓↓\u003C/p\u003E\u000A\u003Cp\u003E\u003Cimg alt\u003D\u0022\u0022 src\u003D\u0022http://static.oschina.net/uploads/space/2016/0621/104650_Mq1d_1792607.png\u0022\u003E\u003C/p\u003E\u000A\u003Cp\u003E\u003Cstrong\u003E扬州商街\u003C/strong\u003E：扬州商街，吃喝玩乐全汇集，多个品牌入驻，多种优惠力度，任你选择。\u003C/p\u003E\u000A\u003Cp\u003E\u003Cimg alt\u003D\u0022\u0022 src\u003D\u0022http://static.oschina.net/uploads/space/2016/0621/103639_j5wo_1792607.png\u0022\u003E\u003C/p\u003E\u000A\u003Cp\u003E \u003C/p\u003E\u000A\u003Cp\u003E扫码体验\u003C/p\u003E\u000A\u003Cp\u003E↓↓↓\u003C/p\u003E\u000A\u003Cp\u003E\u003Cimg alt\u003D\u0022\u0022 src\u003D\u0022http://static.oschina.net/uploads/space/2016/0621/104702_1VM3_1792607.png\u0022\u003E\u003C/p\u003E\u000A\u003Cp\u003E \u003C/p\u003E\u000A\u003Cp\u003E \u003C/p\u003E\u000A\u003Cp\u003E \u003C/p\u003E\u000A\u003Cp\u003E\u003Cspan\u003E\u003Cstrong\u003E响应式网站\u003C/strong\u003E\u003C/span\u003E\u003C/p\u003E\u000A\u003Cp\u003E响应式网站指的是，一次开发就可以智能地根据用户行为以及使用的设备环境（系统平台、屏幕尺寸、屏幕定向等）进行相对应的布局。\u003C/p\u003E\u000A\u003Cp\u003E\u003Cstrong\u003E「无蕴」\u003C/strong\u003E是出现在当下日常生活中，继承传统民族文化习惯的日用品牌。致力于传播传统的生活理念和传续民族情感中深厚细腻的美学感知。通过闻香言茶，格物明智，使我们已经遗忘的传统价值美学观重返当代生活。\u003C/p\u003E\u000A\u003Cp\u003E\u003Cimg alt\u003D\u0022\u0022 src\u003D\u0022http://static.oschina.net/uploads/space/2016/0621/103653_LvzV_1792607.png\u0022\u003E\u003C/p\u003E\u000A\u003Cp\u003E扫码体验\u003C/p\u003E\u000A\u003Cp\u003E↓↓↓\u003C/p\u003E\u000A\u003Cp\u003E\u003Cimg alt\u003D\u0022\u0022 src\u003D\u0022http://static.oschina.net/uploads/space/2016/0621/104157_YmEo_1792607.png\u0022\u003E\u003C/p\u003E\u000A\u003Cp\u003E\u003Cstrong\u003Esolove 素乐官方网站\u003C/strong\u003E \u002D 是移动电源，亦是饰品\u003C/p\u003E\u000A\u003Cp\u003E\u003Cimg alt\u003D\u0022\u0022 src\u003D\u0022http://static.oschina.net/uploads/space/2016/0621/103717_6V4w_1792607.png\u0022\u003E\u003C/p\u003E\u000A\u003Cp\u003E扫码体验\u003C/p\u003E\u000A\u003Cp\u003E↓↓↓\u003C/p\u003E\u000A\u003Cp\u003E\u003Cimg alt\u003D\u0022\u0022 src\u003D\u0022http://static.oschina.net/uploads/space/2016/0621/104212_BZTA_1792607.png\u0022\u003E\u003C/p\u003E\u000A\u003Cp\u003E \u003C/p\u003E\u000A\u003Cp\u003E\u003Cstrong\u003EHTML5 梦工场\u003C/strong\u003E是中国大陆最大的 HTML5 社区和最有影响力手游媒体， HTML5 梦工场内容涵盖最新、最全的手机游戏资讯、手机游戏下载、及时准确的手机游戏测试信息、最丰富的手机游戏活动、发号、测试表和手游礼包等。                    \u003C/p\u003E\u000A\u003Cp\u003E\u003Cimg alt\u003D\u0022\u0022 src\u003D\u0022http://static.oschina.net/uploads/space/2016/0621/103734_8iUL_1792607.png\u0022\u003E\u003C/p\u003E\u000A\u003Cp\u003E扫码体验\u003C/p\u003E\u000A\u003Cp\u003E↓↓↓\u003C/p\u003E\u000A\u003Cp\u003E\u003Cimg alt\u003D\u0022\u0022 src\u003D\u0022http://static.oschina.net/uploads/space/2016/0621/104224_rZ1U_1792607.png\u0022\u003E\u003C/p\u003E\u000A\u003Cp\u003E \u003C/p\u003E\u000A\u003Cp\u003E\u003Cstrong\u003E宠物秀\u003C/strong\u003E最有趣的萌宠社区，快来一起秀我们的爱宠吧！有宠物猫、宠物狗、加菲猫、哈士奇、金毛、美国短毛猫、英国短毛猫等等各种宠物的宠物涂鸦，你还可以看到新鲜事等各种趣闻。\u003C/p\u003E\u000A\u003Cp\u003E\u003Cimg alt\u003D\u0022\u0022 src\u003D\u0022http://static.oschina.net/uploads/space/2016/0621/103839_U0q7_1792607.jpg\u0022\u003E\u003C/p\u003E\u000A\u003Cp\u003E \u003C/p\u003E\u000A\u003Cp\u003E扫码体验\u003C/p\u003E\u000A\u003Cp\u003E↓↓↓\u003C/p\u003E\u000A\u003Cp\u003E\u003Cimg alt\u003D\u0022\u0022 src\u003D\u0022http://static.oschina.net/uploads/space/2016/0621/104331_qU9q_1792607.png\u0022\u003E\u003C/p\u003E\u000A\u003Cp\u003E \u003C/p\u003E\u000A\u003Cp\u003E\u003Cstrong\u003E简点创意\u003C/strong\u003E\u003C/p\u003E\u000A\u003Cp\u003E\u003Cimg alt\u003D\u0022\u0022 src\u003D\u0022http://static.oschina.net/uploads/space/2016/0621/103926_nImV_1792607.jpg\u0022\u003E\u003C/p\u003E\u000A\u003Cp\u003E \u003C/p\u003E\u000A\u003Cp\u003E扫码体验\u003C/p\u003E\u000A\u003Cp\u003E↓↓↓\u003C/p\u003E\u000A\u003Cp\u003E\u003Cimg alt\u003D\u0022\u0022 src\u003D\u0022http://static.oschina.net/uploads/space/2016/0621/104346_IfL3_1792607.png\u0022\u003E\u003C/p\u003E\u000A\u003Cp\u003E \u003C/p\u003E\u000A\u003Cp\u003E秀出你的作品\u003C/p\u003E\u000A\u003Cp\u003E\u003Ca href\u003D\u0022http://amazeui.github.io/cases/\u0022 rel\u003D\u0022nofollow\u0022\u003E点击这里\u003C/a\u003E，提交 Amaze UI 案例\u003C/p\u003E\u000A",
+        "replies" : 1,
+        "member" : {
+            "id" : 87132,
+            "username" : "AmazeUI",
+            "tagline" : "时光静好，与君语/细水流年，与君同/么么哒",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/939f/0e1e/87132_mini.png?m=1419316845",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/939f/0e1e/87132_normal.png?m=1419316845",
+            "avatar_large" : "//cdn.v2ex.co/avatar/939f/0e1e/87132_large.png?m=1419316845"
+        },
+        "node" : {
+            "id" : 60,
+            "name" : "html",
+            "title" : "HTML",
+            "title_alternative" : "HTML",
+            "url" : "http://www.v2ex.com/go/html",
+            "topics" : 162,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/072b/030b/60_mini.png?m=1422539889",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/072b/030b/60_normal.png?m=1422539889",
+            "avatar_large" : "//cdn.v2ex.co/navatar/072b/030b/60_large.png?m=1422539889"
+        },
+        "created" : 1466477805,
+        "last_modified" : 1466477805,
+        "last_touched" : 1466478708
+    },
+    
+    {
+        "id" : 287244,
+        "title" : "一个垃圾小程序，把剪贴板的文本自动保存到文件里。",
+        "url" : "http://www.v2ex.com/t/287244",
+        "content" : "Qt 写的\u000D\u000A博客地址： http://www.conight.com/\u000D\u000AGithub ： https://github.com/Conight/CPWRT\u000D\u000A\u000D\u000A新手，什么都乱的不行，见谅",
+        "content_rendered" : "Qt 写的\u000D\u003Cbr /\u003E博客地址： \u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022http://www.conight.com/\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://www.conight.com/\u003C/a\u003E\u000D\u003Cbr /\u003EGithub ： \u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022https://github.com/Conight/CPWRT\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttps://github.com/Conight/CPWRT\u003C/a\u003E\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E新手，什么都乱的不行，见谅",
+        "replies" : 0,
+        "member" : {
+            "id" : 167582,
+            "username" : "conight",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/940d56bc1b519ce8bef6f4bcea552bb7?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/940d56bc1b519ce8bef6f4bcea552bb7?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/940d56bc1b519ce8bef6f4bcea552bb7?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 11,
+            "name" : "linux",
+            "title" : "Linux",
+            "title_alternative" : "Linux",
+            "url" : "http://www.v2ex.com/go/linux",
+            "topics" : 2496,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/6512/bd43/11_mini.png?m=1466143451",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/6512/bd43/11_normal.png?m=1466143451",
+            "avatar_large" : "//cdn.v2ex.co/navatar/6512/bd43/11_large.png?m=1466143451"
+        },
+        "created" : 1466477604,
+        "last_modified" : 1466477604,
+        "last_touched" : 1466477424
+    },
+    
+    {
+        "id" : 287243,
+        "title" : "hi,all,建了一个守望先锋\u002DV2EX 水友群, 希望交到更多的朋友",
+        "url" : "http://www.v2ex.com/t/287243",
+        "content" : "路人局太操蛋了\u000D\u000A\u000D\u000A群二维码(注明 V2EX):\u000D\u000Ahttps://www.jianguoyun.com/p/DQUQvsUQs_v3BRi3txY",
+        "content_rendered" : "路人局太操蛋了\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E群二维码(注明 V2EX):\u000D\u003Cbr /\u003E\u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022https://www.jianguoyun.com/p/DQUQvsUQs_v3BRi3txY\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttps://www.jianguoyun.com/p/DQUQvsUQs_v3BRi3txY\u003C/a\u003E",
+        "replies" : 0,
+        "member" : {
+            "id" : 77292,
+            "username" : "ming2281",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/fa0e/cdc7/77292_mini.png?m=1463581866",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/fa0e/cdc7/77292_normal.png?m=1463581866",
+            "avatar_large" : "//cdn.v2ex.co/avatar/fa0e/cdc7/77292_large.png?m=1463581866"
+        },
+        "node" : {
+            "id" : 913,
+            "name" : "overwatch",
+            "title" : "Overwatch",
+            "title_alternative" : "Overwatch",
+            "url" : "http://www.v2ex.com/go/overwatch",
+            "topics" : 24,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/8b50/40a8/913_mini.png?m=1465884587",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/8b50/40a8/913_normal.png?m=1465884587",
+            "avatar_large" : "//cdn.v2ex.co/navatar/8b50/40a8/913_large.png?m=1465884587"
+        },
+        "created" : 1466477593,
+        "last_modified" : 1466477593,
+        "last_touched" : 1466304613
+    },
+    
+    {
+        "id" : 287241,
+        "title" : "Windows 复制粘贴功能丢失，如何修复？",
+        "url" : "http://www.v2ex.com/t/287241",
+        "content" : "这个问题好像是一个老问题。但是小弟实在找不到解决办法了，所以上 V2 寻高手帮忙。\u000D\u000A\u000D\u000A个人怀疑是被什么病毒导致。\u000D\u000A\u000D\u000A现象有以下几点：\u000D\u000A1. 鼠标光标频闪，但是一段时间后会停止闪烁。\u000D\u000A\u000D\u000A如果使用 Control ＋ X 剪切桌面任意文件及文件夹图标，图标变灰后马上又恢复亮，然后鼠标光标又开始闪烁。 怀疑有钩子程序拦截 clipboard.exe （用这个指代关于复制粘贴的 windows 程序）\u000D\u000A\u000D\u000A2. 有时用 Chrome 打开网页后，用 右键 菜单式可以 复制 粘贴 文字 的。 但用 快捷键后 就粘贴失败。并且 快捷键之后 用右键也没办法 复制 粘贴了。\u000D\u000A\u000D\u000A感觉有程序在频繁刷新 剪贴板。 导致即使复制了，也会立刻清空剪贴板，然后导致无法 粘贴。\u000D\u000A\u000D\u000A或者 是什么程序冲突问题？ 或者键盘驱动问题？ 有什么好的检测办法吗？\u000D\u000A\u000D\u000A感觉我所在的网络不安全导致。 \u000D\u000A\u000D\u000A格式化 C 盘，重装系统后，很快又变成这样的情况。\u000D\u000A\u000D\u000A有高手愿意给个解决办法吗？",
+        "content_rendered" : "这个问题好像是一个老问题。但是小弟实在找不到解决办法了，所以上 V2 寻高手帮忙。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E个人怀疑是被什么病毒导致。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E现象有以下几点：\u000D\u003Cbr /\u003E1. 鼠标光标频闪，但是一段时间后会停止闪烁。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E如果使用 Control ＋ X 剪切桌面任意文件及文件夹图标，图标变灰后马上又恢复亮，然后鼠标光标又开始闪烁。 怀疑有钩子程序拦截 clipboard.exe （用这个指代关于复制粘贴的 windows 程序）\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E2. 有时用 Chrome 打开网页后，用 右键 菜单式可以 复制 粘贴 文字 的。 但用 快捷键后 就粘贴失败。并且 快捷键之后 用右键也没办法 复制 粘贴了。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E感觉有程序在频繁刷新 剪贴板。 导致即使复制了，也会立刻清空剪贴板，然后导致无法 粘贴。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E或者 是什么程序冲突问题？ 或者键盘驱动问题？ 有什么好的检测办法吗？\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E感觉我所在的网络不安全导致。 \u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E格式化 C 盘，重装系统后，很快又变成这样的情况。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E有高手愿意给个解决办法吗？",
+        "replies" : 6,
+        "member" : {
+            "id" : 154734,
+            "username" : "happyjohann",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/c9d3979cc248954528ce34cc43c8d637?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/c9d3979cc248954528ce34cc43c8d637?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/c9d3979cc248954528ce34cc43c8d637?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 71403,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1466294049",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1466294049",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1466294049"
+        },
+        "created" : 1466477490,
+        "last_modified" : 1466477490,
+        "last_touched" : 1466479447
+    },
+    
+    {
+        "id" : 287240,
+        "title" : "准备升级一个开源的 php 加密扩展 跪求破解高手打脸",
+        "url" : "http://www.v2ex.com/t/287240",
+        "content" : "基于据说日本人写的 php screw  \u000D\u000A然后进行了些修改，为了区分暂时命名为 screw plus\u000D\u000A然后做了以下改进  \u000D\u000A**增加了批量加密**  \u000D\u000A**升级了加密算法，更加安全可靠**  \u000D\u000A加密函数是用的网上找的基于 php 的 authcode 算法，然后稍微进行了些小优化  \u000D\u000A加密的优点：  \u000D\u000A**可防止源码泄露，别以为 vps 就绝对安全了，我有个朋友的 vps 就被工作人员直接破解了，原因是另一个客户记错了 ip ，没核对信息就。。。**    \u000D\u000A**商业源码可加密核心功能，只开放接口给客户**    \u000D\u000A**部分公司需要团队开发的，可防止源码泄露**  \u000D\u000A**其他。。。我编不出来了**    \u000D\u000A下面是演示对比:  \u000D\u000A**PHP 原生代码：**  \u000D\u000A![]( http://i.imgur.com/cttWhkT.jpg)  \u000D\u000A**screw 加密:**  \u000D\u000A![]( http://i.imgur.com/RFqiszl.jpg)  \u000D\u000A**screw plus 加密：**  \u000D\u000A![]( http://i.imgur.com/pIKxPln.jpg)  \u000D\u000A\u000D\u000A之所以要用扩展来加密是因为这是最安全的方法，不需要扩展的加密都是可以破解的，唯一不同的就是破解时间的区别(当然，扩展加密也是可以破解的，但是破解时间不是破解者所能承受的毕竟没人能活几万年)\u000D\u000A\u000D\u000A有兴趣的朋友可以关注下，完全完成后我会上传到 github 和 oschina\u000D\u000A\u000D\u000A有破解能力的可以尝试下破解以下 code 来打我脸，加密函数在这里 http://filedoc.s3.sinaapp.com/myfiles/cauthcode.c\u000D\u000A\u000D\u000Acode:  \u000D\u000A```\u000D\u000Af83c0c86454591265c9f772eb499ea4a3+Mrn7H3huTwgitNLGtAZlrixw5BLaHDeoYUJR8xg3NgVz8wlTWYV0x9dgW7q6eRVexLVBWOipqQgK74mdMNe/fyx42uf607MUfpPLNiBNCtHbB8rnrnpxKqVXJVUu/83GVFfwOTrt4Bge3erdYUp38DyHgLXlKGevf4MW7SB1hwd9P1rsyDQHzvzxltBU9+fanOC5Vp+uuz4BhXJsnhJTlM8pRjEwfnH9D+KkxryKNnC0YwmCrGYWDODanCzyDOOjadr5GovnGyzPmhZjlSy6zSWX0OVjESSO+evaN4tB5V5WWqC0cjZTTfHIjFt5i5Gut8qpOM8oWKzCUd5B8NOwFoNsotlM6feRHQajRDOQiXURco1yvHeUGWT07mg9h+65jJxVxF0gx8OFQrxxFxMBXEUdzb9T6V6jwA8jcyjn2U8HESLo+t4YC8P//afy6yXicSeW1LGeLyng7RITLnFSPPxRHeuAMSBqvXhxXSbIv+HCLst/edoWUtBq09Ig0UXuLo1MWce/DuqDg2QHe9NQM4AVUE9VD2p0DTcmgrCDXRjufiSqzh2pPnWkw6yNUqp6SNSAGVSzrMm8OvoLKt6bwTB22FNAsI5ANlVvgRnth+sSeZ1FdTKOt0vQckMBgxLi2emm8V6PD6NQhlJisX0K21uySiQIZRMlNhAHGMgM6s7dYgGwQUNWfmrgTfNvLaA2BL7cRbLmb9BK2n+VI/fP4xY4NbvhtykImOVXTY9g8gyZqykbTo7WHwXleRl7qj6rIh7WZKmrn+IURZbm0lFd8g4YKs5kOcEDAlZequv2sAGMECLLx5qPSTnuUVTrDBGIWG5Uy4IsOnkeRBKMNN4L1UlT3jPygqc5Dd9axGcnvOM5FGZU/Xj7CBFtNwTkcBeUd40t2FiQ0ZgDy+rP7eRV5fCSosd2ol2bpzbbYQjjAASqz7duknPM+y8daSRIuvS83eJUe/5gIYDaJqNPgS1cl6L6feij1xiV4syZ4UD5byaZreMHKGTtdh5iGHjTakdje5Tt5OxoRr/JK74QqVaXDibUFQuZKAsGkrR3S3JgL//cPkvymSlVed355BZHPPMZ0x+0o3MFWkJZL5mSgHxmO6WzW34wMGIY8N/yhSgJflGElSgm61O1E8yYrOBD2UWmXr55WvcnivkemY4pLzAnQRn6tug89yseEELG46w87TIfes9zTtmr1/mogZzbGcjEU3j+kR8pLMSE03LtVp2QSxEHxepc6ngSxXiWugMyfWaOlTK+1X1AyN4IGvZBdkM7HEQx2iHGJ+yT2lEqrwiD0/yuD6T7pWOhTmx6W/UAdopciiUPraoeEJcAw7eSMOn1xZbq7SBgzzSAWcFXYoZZeejsSHZGSXWM+IXKzjJ6pTiuErPykMUvu698z7Cpb235f2vI0tIRE0UOKrnaGGgGVIJCORlpoccLKuzkNuU3HmNEKCfTL1QgsxWMNGgZlWKZsQWbYJNOj0xFUu12CUcwnpjB2faRh3CKXNZtOweKnLTfF/wgLHA7tNs4mZydLxad4dwkvfXl69bn3K+D7NRT22BYbnACbGODFQTZ+dWi033YbXr/bPAwULVnWh56DC/Q2NFKzQYND+gML/8IqSNq4g+rCGzziNtysV0IIpNdptoLcH9GB/fEQkpfHPS1Bh/wTG\u000D\u000A```",
+        "content_rendered" : "\u003Cp\u003E基于据说日本人写的 php screw\u003Cbr\u003E\u000A然后进行了些修改，为了区分暂时命名为 screw plus\u000A然后做了以下改进\u003Cbr\u003E\u000A\u003Cstrong\u003E增加了批量加密\u003C/strong\u003E\u003Cbr\u003E\u000A\u003Cstrong\u003E升级了加密算法，更加安全可靠\u003C/strong\u003E\u003Cbr\u003E\u000A加密函数是用的网上找的基于 php 的 authcode 算法，然后稍微进行了些小优化\u003Cbr\u003E\u000A加密的优点：\u003Cbr\u003E\u000A\u003Cstrong\u003E可防止源码泄露，别以为 vps 就绝对安全了，我有个朋友的 vps 就被工作人员直接破解了，原因是另一个客户记错了 ip ，没核对信息就。。。\u003C/strong\u003E\u003Cbr\u003E\u000A\u003Cstrong\u003E商业源码可加密核心功能，只开放接口给客户\u003C/strong\u003E\u003Cbr\u003E\u000A\u003Cstrong\u003E部分公司需要团队开发的，可防止源码泄露\u003C/strong\u003E\u003Cbr\u003E\u000A\u003Cstrong\u003E其他。。。我编不出来了\u003C/strong\u003E\u003Cbr\u003E\u000A下面是演示对比:\u003Cbr\u003E\u000A\u003Cstrong\u003EPHP 原生代码：\u003C/strong\u003E\u003Cbr\u003E\u000A\u003Cimg alt\u003D\u0022\u0022 src\u003D\u0022http://i.imgur.com/cttWhkT.jpg\u0022\u003E\u003Cbr\u003E\u000A\u003Cstrong\u003Escrew 加密:\u003C/strong\u003E\u003Cbr\u003E\u000A\u003Cimg alt\u003D\u0022\u0022 src\u003D\u0022http://i.imgur.com/RFqiszl.jpg\u0022\u003E\u003Cbr\u003E\u000A\u003Cstrong\u003Escrew plus 加密：\u003C/strong\u003E\u003Cbr\u003E\u000A\u003Cimg alt\u003D\u0022\u0022 src\u003D\u0022http://i.imgur.com/pIKxPln.jpg\u0022\u003E\u003C/p\u003E\u000A\u003Cp\u003E之所以要用扩展来加密是因为这是最安全的方法，不需要扩展的加密都是可以破解的，唯一不同的就是破解时间的区别(当然，扩展加密也是可以破解的，但是破解时间不是破解者所能承受的毕竟没人能活几万年)\u003C/p\u003E\u000A\u003Cp\u003E有兴趣的朋友可以关注下，完全完成后我会上传到 github 和 oschina\u003C/p\u003E\u000A\u003Cp\u003E有破解能力的可以尝试下破解以下 code 来打我脸，加密函数在这里 \u003Ca href\u003D\u0022http://filedoc.s3.sinaapp.com/myfiles/cauthcode.c\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://filedoc.s3.sinaapp.com/myfiles/cauthcode.c\u003C/a\u003E\u003C/p\u003E\u000A\u003Cp\u003Ecode:\u003C/p\u003E\u000A\u003Cpre\u003E\u003Ccode\u003Ef83c0c86454591265c9f772eb499ea4a3+Mrn7H3huTwgitNLGtAZlrixw5BLaHDeoYUJR8xg3NgVz8wlTWYV0x9dgW7q6eRVexLVBWOipqQgK74mdMNe/fyx42uf607MUfpPLNiBNCtHbB8rnrnpxKqVXJVUu/83GVFfwOTrt4Bge3erdYUp38DyHgLXlKGevf4MW7SB1hwd9P1rsyDQHzvzxltBU9+fanOC5Vp+uuz4BhXJsnhJTlM8pRjEwfnH9D+KkxryKNnC0YwmCrGYWDODanCzyDOOjadr5GovnGyzPmhZjlSy6zSWX0OVjESSO+evaN4tB5V5WWqC0cjZTTfHIjFt5i5Gut8qpOM8oWKzCUd5B8NOwFoNsotlM6feRHQajRDOQiXURco1yvHeUGWT07mg9h+65jJxVxF0gx8OFQrxxFxMBXEUdzb9T6V6jwA8jcyjn2U8HESLo+t4YC8P//afy6yXicSeW1LGeLyng7RITLnFSPPxRHeuAMSBqvXhxXSbIv+HCLst/edoWUtBq09Ig0UXuLo1MWce/DuqDg2QHe9NQM4AVUE9VD2p0DTcmgrCDXRjufiSqzh2pPnWkw6yNUqp6SNSAGVSzrMm8OvoLKt6bwTB22FNAsI5ANlVvgRnth+sSeZ1FdTKOt0vQckMBgxLi2emm8V6PD6NQhlJisX0K21uySiQIZRMlNhAHGMgM6s7dYgGwQUNWfmrgTfNvLaA2BL7cRbLmb9BK2n+VI/fP4xY4NbvhtykImOVXTY9g8gyZqykbTo7WHwXleRl7qj6rIh7WZKmrn+IURZbm0lFd8g4YKs5kOcEDAlZequv2sAGMECLLx5qPSTnuUVTrDBGIWG5Uy4IsOnkeRBKMNN4L1UlT3jPygqc5Dd9axGcnvOM5FGZU/Xj7CBFtNwTkcBeUd40t2FiQ0ZgDy+rP7eRV5fCSosd2ol2bpzbbYQjjAASqz7duknPM+y8daSRIuvS83eJUe/5gIYDaJqNPgS1cl6L6feij1xiV4syZ4UD5byaZreMHKGTtdh5iGHjTakdje5Tt5OxoRr/JK74QqVaXDibUFQuZKAsGkrR3S3JgL//cPkvymSlVed355BZHPPMZ0x+0o3MFWkJZL5mSgHxmO6WzW34wMGIY8N/yhSgJflGElSgm61O1E8yYrOBD2UWmXr55WvcnivkemY4pLzAnQRn6tug89yseEELG46w87TIfes9zTtmr1/mogZzbGcjEU3j+kR8pLMSE03LtVp2QSxEHxepc6ngSxXiWugMyfWaOlTK+1X1AyN4IGvZBdkM7HEQx2iHGJ+yT2lEqrwiD0/yuD6T7pWOhTmx6W/UAdopciiUPraoeEJcAw7eSMOn1xZbq7SBgzzSAWcFXYoZZeejsSHZGSXWM+IXKzjJ6pTiuErPykMUvu698z7Cpb235f2vI0tIRE0UOKrnaGGgGVIJCORlpoccLKuzkNuU3HmNEKCfTL1QgsxWMNGgZlWKZsQWbYJNOj0xFUu12CUcwnpjB2faRh3CKXNZtOweKnLTfF/wgLHA7tNs4mZydLxad4dwkvfXl69bn3K+D7NRT22BYbnACbGODFQTZ+dWi033YbXr/bPAwULVnWh56DC/Q2NFKzQYND+gML/8IqSNq4g+rCGzziNtysV0IIpNdptoLcH9GB/fEQkpfHPS1Bh/wTG\u000A\u003C/code\u003E\u003C/pre\u003E\u000A",
+        "replies" : 1,
+        "member" : {
+            "id" : 173283,
+            "username" : "rekulas",
+            "tagline" : "\u003B̷ͣ̑̆ͯ̆̋͋̒ͩ͊̋̇̒ͦ̿̐͞҉̷̻̖͎̦̼̺͕̜s̾̍ͩ̀̈ͩͭ͒͑͏̸̧̜̩͓̬͕̫̣̬̝̕ͅͅ",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/ff00/e7ff/173283_mini.png?m=1465376749",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/ff00/e7ff/173283_normal.png?m=1465376749",
+            "avatar_large" : "//cdn.v2ex.co/avatar/ff00/e7ff/173283_large.png?m=1465376749"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 12274,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_mini.png?m=1466403080",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_normal.png?m=1466403080",
+            "avatar_large" : "//cdn.v2ex.co/navatar/94f6/d7e0/300_large.png?m=1466403080"
+        },
+        "created" : 1466477453,
+        "last_modified" : 1466477588,
+        "last_touched" : 1466466473
+    },
+    
+    {
+        "id" : 287239,
+        "title" : "[北京]华米科技（小米手环团队）招聘 Android 开发工程师/前端开发工程师",
+        "url" : "http://www.v2ex.com/t/287239",
+        "content" : "# Android 开发工程师（招实习生）\u000D\u000A\u002D\u002D\u002D\u002D\u000D\u000A### 工作职责：\u000D\u000A1. 负责公司 Android 应用程序开发；\u000D\u000A2. 维护应用稳定，按需求优化应用。\u000D\u000A\u002D\u002D\u002D\u002D\u000D\u000A### 任职资格：\u000D\u000A1. 2 年以上 Android 开发经验；\u000D\u000A2. 良好的计算机思维；\u000D\u000A3. 良好的数据结构、算法和软件设计功底；\u000D\u000A4. 熟悉 Android 系统框架和自定义控件的开发，精通 UI 界面开发；\u000D\u000A5. 善于独立解决问题，有团队协作精神。\u000D\u000A\u000D\u000A\u002D\u002D\u002D\u002D\u000D\u000A\u000D\u000A# 前端开发工程师\u000D\u000A\u002D\u002D\u002D\u002D\u000D\u000A### 工作职责：\u000D\u000A\u000D\u000A1. 负责网页端、移动端前端研发工作\u000D\u000A\u002D\u002D\u002D\u002D\u000D\u000A### 任职资格：\u000D\u000A\u002D\u002D\u002D\u002D\u000D\u000A1. 熟练掌握 HTML5 、 CSS3 、 JavaScript 开发；\u000D\u000A2. 熟练使用至少一种 JS 框架，掌握其原理，能独立开发常用组件；\u000D\u000A3. 熟练使用各种调试、抓包工具，能独立分析、解决和归纳问题；\u000D\u000A4. 具有性能优化经验，熟悉各种常用设计模式和常用 MV*框架；\u000D\u000A5. 善于独立解决问题，有团队协作精神。\u000D\u000A\u000D\u000A\u002D\u002D\u002D\u002D\u002D\u002D\u000D\u000A## 一些不同于其他公司的福利\u000D\u000A1. 公司各类可穿戴式设备优先体验；\u000D\u000A2. 公司内不定期的运动大神经验分享；\u000D\u000A3. 游泳 /健身 /羽毛球 /乒乓球 等场馆费用报销；\u000D\u000A4. 国内各大马拉松、铁人三项报名费用报销。\u000D\u000A\u000D\u000A\u000D\u000A## 欢迎加入我们这个拥有浓郁运动文化的公司，让我们一起跑马一起打铁！\u000D\u000A### 简历请发送至： wangkunchen@huami.com",
+        "content_rendered" : "\u003Ch1\u003EAndroid 开发工程师（招实习生）\u003C/h1\u003E\u000A\u003Chr\u003E\u000A\u003Ch3\u003E工作职责：\u003C/h3\u003E\u000A\u003Col\u003E\u000A\u003Cli\u003E负责公司 Android 应用程序开发；\u003C/li\u003E\u000A\u003Cli\u003E维护应用稳定，按需求优化应用。\u003C/li\u003E\u000A\u003C/ol\u003E\u000A\u003Chr\u003E\u000A\u003Ch3\u003E任职资格：\u003C/h3\u003E\u000A\u003Col\u003E\u000A\u003Cli\u003E2 年以上 Android 开发经验；\u003C/li\u003E\u000A\u003Cli\u003E良好的计算机思维；\u003C/li\u003E\u000A\u003Cli\u003E良好的数据结构、算法和软件设计功底；\u003C/li\u003E\u000A\u003Cli\u003E熟悉 Android 系统框架和自定义控件的开发，精通 UI 界面开发；\u003C/li\u003E\u000A\u003Cli\u003E善于独立解决问题，有团队协作精神。\u003C/li\u003E\u000A\u003C/ol\u003E\u000A\u003Chr\u003E\u000A\u003Ch1\u003E前端开发工程师\u003C/h1\u003E\u000A\u003Chr\u003E\u000A\u003Ch3\u003E工作职责：\u003C/h3\u003E\u000A\u003Col\u003E\u000A\u003Cli\u003E负责网页端、移动端前端研发工作\u003C/li\u003E\u000A\u003C/ol\u003E\u000A\u003Chr\u003E\u000A\u003Ch3\u003E任职资格：\u003C/h3\u003E\u000A\u003Chr\u003E\u000A\u003Col\u003E\u000A\u003Cli\u003E熟练掌握 HTML5 、 CSS3 、 JavaScript 开发；\u003C/li\u003E\u000A\u003Cli\u003E熟练使用至少一种 JS 框架，掌握其原理，能独立开发常用组件；\u003C/li\u003E\u000A\u003Cli\u003E熟练使用各种调试、抓包工具，能独立分析、解决和归纳问题；\u003C/li\u003E\u000A\u003Cli\u003E具有性能优化经验，熟悉各种常用设计模式和常用 MV*框架；\u003C/li\u003E\u000A\u003Cli\u003E善于独立解决问题，有团队协作精神。\u003C/li\u003E\u000A\u003C/ol\u003E\u000A\u003Chr\u003E\u000A\u003Ch2\u003E一些不同于其他公司的福利\u003C/h2\u003E\u000A\u003Col\u003E\u000A\u003Cli\u003E公司各类可穿戴式设备优先体验；\u003C/li\u003E\u000A\u003Cli\u003E公司内不定期的运动大神经验分享；\u003C/li\u003E\u000A\u003Cli\u003E游泳 /健身 /羽毛球 /乒乓球 等场馆费用报销；\u003C/li\u003E\u000A\u003Cli\u003E国内各大马拉松、铁人三项报名费用报销。\u003C/li\u003E\u000A\u003C/ol\u003E\u000A\u003Ch2\u003E欢迎加入我们这个拥有浓郁运动文化的公司，让我们一起跑马一起打铁！\u003C/h2\u003E\u000A\u003Ch3\u003E简历请发送至： wangkunchen@huami.com\u003C/h3\u003E\u000A",
+        "replies" : 2,
+        "member" : {
+            "id" : 32995,
+            "username" : "Loafer",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/bf66/3359/32995_mini.png?m=1377753152",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/bf66/3359/32995_normal.png?m=1377753152",
+            "avatar_large" : "//cdn.v2ex.co/avatar/bf66/3359/32995_large.png?m=1377753152"
+        },
+        "node" : {
+            "id" : 43,
+            "name" : "jobs",
+            "title" : "酷工作",
+            "title_alternative" : "Jobs",
+            "url" : "http://www.v2ex.com/go/jobs",
+            "topics" : 16240,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/17e6/2166/43_mini.png?m=1465880397",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/17e6/2166/43_normal.png?m=1465880397",
+            "avatar_large" : "//cdn.v2ex.co/navatar/17e6/2166/43_large.png?m=1465880397"
+        },
+        "created" : 1466477280,
+        "last_modified" : 1466477280,
+        "last_touched" : 1466478208
+    },
+    
+    {
+        "id" : 287238,
+        "title" : "WIN10 特别喜欢悄悄更改你的默认应用, 大家有没有遇到这种情况?",
+        "url" : "http://www.v2ex.com/t/287238",
+        "content" : "比如播放视频或者音乐,本来你用 QQ 影音或者别的早就绑定好了,没多久打开文件发现又被它悄悄改回去了.",
+        "content_rendered" : "比如播放视频或者音乐,本来你用 QQ 影音或者别的早就绑定好了,没多久打开文件发现又被它悄悄改回去了.",
+        "replies" : 2,
+        "member" : {
+            "id" : 40182,
+            "username" : "2232588429",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/e141/5faa/40182_mini.png?m=1395795894",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/e141/5faa/40182_normal.png?m=1395795894",
+            "avatar_large" : "//cdn.v2ex.co/avatar/e141/5faa/40182_large.png?m=1395795894"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 71403,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1466294049",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1466294049",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1466294049"
+        },
+        "created" : 1466476979,
+        "last_modified" : 1466476998,
+        "last_touched" : 1466477875
+    },
+    
+    {
+        "id" : 287237,
+        "title" : "为什么我的 iOS10 和你们不一样",
+        "url" : "http://www.v2ex.com/t/287237",
+        "content" : "https://i.v2ex.co/KvRT7i9c.png\u000D\u000A\u000D\u000Ahttps://i.v2ex.co/0zf7Y0CD.png",
+        "content_rendered" : "\u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022/i/KvRT7i9c.png\u0022 target\u003D\u0022_blank\u0022 title\u003D\u0022在新窗口打开图片 KvRT7i9c.png\u0022\u003E\u003Cimg src\u003D\u0022//i.v2ex.co/KvRT7i9c.png\u0022 class\u003D\u0022embedded_image\u0022 /\u003E\u003C/a\u003E\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E\u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022/i/0zf7Y0CD.png\u0022 target\u003D\u0022_blank\u0022 title\u003D\u0022在新窗口打开图片 0zf7Y0CD.png\u0022\u003E\u003Cimg src\u003D\u0022//i.v2ex.co/0zf7Y0CD.png\u0022 class\u003D\u0022embedded_image\u0022 /\u003E\u003C/a\u003E",
+        "replies" : 4,
+        "member" : {
+            "id" : 99470,
+            "username" : "Andy1999",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/gravatar/8c628c1eac045670ad13b7b1d59924e3?s=24&d=retro",
+            "avatar_normal" : "//cdn.v2ex.co/gravatar/8c628c1eac045670ad13b7b1d59924e3?s=48&d=retro",
+            "avatar_large" : "//cdn.v2ex.co/gravatar/8c628c1eac045670ad13b7b1d59924e3?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 8,
+            "name" : "iphone",
+            "title" : "iPhone",
+            "title_alternative" : "iPhone",
+            "url" : "http://www.v2ex.com/go/iphone",
+            "topics" : 3559,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c9f0/f895/8_mini.png?m=1465880457",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c9f0/f895/8_normal.png?m=1465880457",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c9f0/f895/8_large.png?m=1465880457"
+        },
+        "created" : 1466476944,
+        "last_modified" : 1466476944,
+        "last_touched" : 1466479107
+    },
+    
+    {
+        "id" : 287236,
+        "title" : "为什么二手物品挂在闲鱼,总有人问一些智障问题? 他们的时间不值钱吗?",
+        "url" : "http://www.v2ex.com/t/287236",
+        "content" : "吐槽:\u000D\u000A大部分人问了都不买,总是问一些很消耗我时间的问题(在宝贝详情,我已经尽可能写详细了)\u000D\u000A详细给一些解答后, 然后不买, 真当别人时间不是时间啊?\u000D\u000A\u000D\u000A问:\u000D\u000A1 大家的二手物品如何处理的?(我主要也不是为了赚钱,主要是为了尽量出了这些东西)\u000D\u000A2 如果挂闲鱼, 如何保证快速出掉(低价不是解决之道, 你出低价,别人反而说你是假货, 或者有人还想要更低的价格, 最好是免费送给他还包邮)",
+        "content_rendered" : "吐槽:\u000D\u003Cbr /\u003E大部分人问了都不买,总是问一些很消耗我时间的问题(在宝贝详情,我已经尽可能写详细了)\u000D\u003Cbr /\u003E详细给一些解答后, 然后不买, 真当别人时间不是时间啊?\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E问:\u000D\u003Cbr /\u003E1 大家的二手物品如何处理的?(我主要也不是为了赚钱,主要是为了尽量出了这些东西)\u000D\u003Cbr /\u003E2 如果挂闲鱼, 如何保证快速出掉(低价不是解决之道, 你出低价,别人反而说你是假货, 或者有人还想要更低的价格, 最好是免费送给他还包邮)",
+        "replies" : 2,
+        "member" : {
+            "id" : 77292,
+            "username" : "ming2281",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.co/avatar/fa0e/cdc7/77292_mini.png?m=1463581866",
+            "avatar_normal" : "//cdn.v2ex.co/avatar/fa0e/cdc7/77292_normal.png?m=1463581866",
+            "avatar_large" : "//cdn.v2ex.co/avatar/fa0e/cdc7/77292_large.png?m=1463581866"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 71403,
+            "avatar_mini" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_mini.png?m=1466294049",
+            "avatar_normal" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_normal.png?m=1466294049",
+            "avatar_large" : "//cdn.v2ex.co/navatar/c20a/d4d7/12_large.png?m=1466294049"
+        },
+        "created" : 1466476884,
+        "last_modified" : 1466476884,
+        "last_touched" : 1466379884
+    }
+    
+]
+ }

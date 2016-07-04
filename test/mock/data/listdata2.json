@@ -1,0 +1,103 @@
+{
+    "code": "200",
+    "description": "success",
+    "detail": {
+        "totalRow": 99999999,
+        "pageNumber": 2,
+        "lastPage": false,
+        "totalPage": 999999,
+        "pageSize": 10,
+        "list": [
+             {
+                 "s_id": 0,
+                 "last_date": "2016-03-24",
+                 "picurl": "http://cdn.duitang.com/uploads/item/201409/04/20140904220031_HwxTy.thumb.700_0.jpeg",
+                 "title": "hjkasjks",
+                 "price": 2222,
+                 "viewed": 3820,
+                 "remark": "宣传语是什么鬼宣传语是什么鬼宣传语是什么鬼"
+              },
+              {
+                  "s_id": 0,
+                  "last_date": "2016-03-24",
+                  "picurl": "http://cdn.duitang.com/uploads/item/201409/04/20140904220031_HwxTy.thumb.700_0.jpeg",
+                  "title": "hjkasjks",
+                  "price": 2222,
+                  "viewed": 3820,
+                  "remark": "宣传语是什么鬼宣传语是什么鬼宣传语是什么鬼"
+               },
+               {
+                   "s_id": 0,
+                   "last_date": "2016-03-24",
+                   "picurl": "http://cdn.duitang.com/uploads/item/201409/04/20140904220031_HwxTy.thumb.700_0.jpeg",
+                   "title": "hjkasjks",
+                   "price": 2222,
+                   "viewed": 3820,
+                   "remark": "宣传语是什么鬼宣传语是什么鬼宣传语是什么鬼"
+                },
+                {
+                    "s_id": 0,
+                    "last_date": "2016-03-24",
+                    "picurl": "http://cdn.duitang.com/uploads/item/201409/04/20140904220031_HwxTy.thumb.700_0.jpeg",
+                    "title": "hjkasjks",
+                    "price": 2222,
+                    "viewed": 3820,
+                    "remark": "宣传语是什么鬼宣传语是什么鬼宣传语是什么鬼"
+                 },
+                 {
+                     "s_id": 0,
+                     "last_date": "2016-03-24",
+                     "picurl": "http://cdn.duitang.com/uploads/item/201409/04/20140904220031_HwxTy.thumb.700_0.jpeg",
+                     "title": "hjkasjks",
+                     "price": 2222,
+                     "viewed": 3820,
+                     "remark": "宣传语是什么鬼宣传语是什么鬼宣传语是什么鬼"
+                  },
+                  {
+                      "s_id": 0,
+                      "last_date": "2016-03-24",
+                      "picurl": "http://cdn.duitang.com/uploads/item/201409/04/20140904220031_HwxTy.thumb.700_0.jpeg",
+                      "title": "hjkasjks",
+                      "price": 2222,
+                      "viewed": 3820,
+                      "remark": "宣传语是什么鬼宣传语是什么鬼宣传语是什么鬼"
+                   },
+                   {
+                       "s_id": 0,
+                       "last_date": "2016-03-24",
+                       "picurl": "http://cdn.duitang.com/uploads/item/201409/04/20140904220031_HwxTy.thumb.700_0.jpeg",
+                       "title": "hjkasjks",
+                       "price": 2222,
+                       "viewed": 3820,
+                       "remark": "宣传语是什么鬼宣传语是什么鬼宣传语是什么鬼"
+                    },
+                    {
+                        "s_id": 0,
+                        "last_date": "2016-03-24",
+                        "picurl": "http://cdn.duitang.com/uploads/item/201409/04/20140904220031_HwxTy.thumb.700_0.jpeg",
+                        "title": "hjkasjks",
+                        "price": 2222,
+                        "viewed": 3820,
+                        "remark": "宣传语是什么鬼宣传语是什么鬼宣传语是什么鬼"
+                     },
+                     {
+                         "s_id": 0,
+                         "last_date": "2016-03-24",
+                         "picurl": "http://cdn.duitang.com/uploads/item/201409/04/20140904220031_HwxTy.thumb.700_0.jpeg",
+                         "title": "hjkasjks",
+                         "price": 2222,
+                         "viewed": 3820,
+                         "remark": "宣传语是什么鬼宣传语是什么鬼宣传语是什么鬼"
+                      },
+                      {
+                          "s_id": 0,
+                          "last_date": "2016-03-24",
+                          "picurl": "http://cdn.duitang.com/uploads/item/201409/04/20140904220031_HwxTy.thumb.700_0.jpeg",
+                          "title": "hjkasjks",
+                          "price": 2222,
+                          "viewed": 3820,
+                          "remark": "宣传语是什么鬼宣传语是什么鬼宣传语是什么鬼"
+                       }
+        ]
+    }
+}

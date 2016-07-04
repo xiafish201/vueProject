@@ -1,0 +1,9 @@
+{
+    "result_code" :"200000",
+    "access_token": "74be16979710d4c4e7c6647856088456146644657359312841090-3713-11e6-bfc1-353ab882e8f4",
+    "user_info": {
+        "user_id": "001",
+        "user_name": "tom",
+        "avatar": "pig.jpg"
+    }
+}

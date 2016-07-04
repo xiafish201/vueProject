@@ -1,0 +1,21 @@
+{
+	"src/index.html": {
+		"href": "src/index.html",
+		"priority": 0,
+		"resources": [],
+		"refer": []
+	},
+	"dist/index.html": {
+		"href": "dist/index.html",
+		"priority": 0,
+		"resources": [
+			"dist/static/js/vendor.e2d78ae411275f6fd129.js",
+			"dist/static/js/manifest.0ad896ac49e3ffd93322.js",
+			"dist/static/css/demo.6528e77cb67caae1a18d0e379b2bce99.css",
+			"dist/static/js/demo.5e224cdd12e09d605fa5.js",
+			"dist/static/js/demo.b0a81a553b0534452589.js",
+			"dist/static/js/manifest.8fdc9adef172c5685dac.js"
+		],
+		"refer": []
+	}
+}
