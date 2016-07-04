@@ -1,8 +1,8 @@
-'use strict'
+'use strict';
 /*!
  * propUtils.js v1.0.0
  * 配置文件读取工具类
- * 
+ *
  * Author: liaoxm
  * Date: 2016-06-16
  *
@@ -12,12 +12,14 @@ import props from './properties';
 /**
  * 读取配置项
  * @param {String} k 需要读取的配置项key
+ * @param {String} area 需要读取属性域
  * @return {String}  配置项value
  * @public
  */
-const getProperty = k => {
-    return props.jxddprops[k];
-}
+const getProperty = (k, area) => {
+    area = area || 'jxddprops';
+    return props[area][k];
+};
 
 /**
  * 修改配置项，只是动态修改不会修改文件内容
@@ -25,9 +27,9 @@ const getProperty = k => {
  * @param {String} v 配置项value
  * @public
  */
-const setProperty = (k,v) => {
+const setProperty = (k, v) => {
     props.jxddprops[k] = v;
-}
+};
 
 /**
  * 读取日志输出配置项
@@ -37,8 +39,10 @@ const setProperty = (k,v) => {
  */
 const getLogProp = k => {
     return props.logprops[k];
-}
+};
 
 export default {
-    getProperty,setProperty,getLogProp
-}
+    getProperty,
+    setProperty,
+    getLogProp
+};

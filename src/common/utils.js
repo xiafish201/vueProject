@@ -1,14 +1,14 @@
-'use strict'
+'use strict';
 /*!
  * utils v1.0.0
  * 工具类,提供各种工具方法，会陆续添加
- * 
+ *
  * Author: liaoxm
  * Date: 2016-06-16
  *
  */
-import nodeUuid from 'node-uuid'
-import crypto from 'crypto'
+import nodeUuid from 'node-uuid';
+import crypto from 'crypto';
 /**
  * 选择器
  * @param {String} sel   是一个字符串，包含一个或是多个 CSS 选择器 ，多个则以逗号分隔
@@ -17,7 +17,7 @@ import crypto from 'crypto'
  */
 const query = sel => {
     return document.querySelector(sel);
-}
+};
 
 /**
  * 选择器
@@ -27,7 +27,7 @@ const query = sel => {
  */
 const queryAll = sel => {
     return document.querySelectorAll(sel);
-}
+};
 
 /**
  * 产生一个 v1 (基于时间的) id
@@ -36,7 +36,7 @@ const queryAll = sel => {
  */
 const uuid = () => {
     return nodeUuid.v1(); // -> '6c84fb90-12c4-11e1-840d-7b25c5ee775a'
-}
+};
 
 /**
  * 产生一个 v4 (基于时间的) id
@@ -45,7 +45,7 @@ const uuid = () => {
  */
 const uuidV4 = () => {
     return nodeUuid.v4(); // -> '110ec58a-a0f2-4ac4-8393-c866d813b8d1’
-}
+};
 
 /**
  * hash方法
@@ -64,7 +64,7 @@ const hash = (method, s, format) => {
     }
     sum.update(s, isBuffer ? 'binary' : 'utf8');
     return sum.digest(format || 'hex');
-}
+};
 
 /**
  * md5 编码
@@ -76,7 +76,7 @@ const hash = (method, s, format) => {
  */
 const md5 = (s, format) => {
     return hash('md5', s, format);
-}
+};
 
 /**
  * sha1 编码
@@ -88,7 +88,7 @@ const md5 = (s, format) => {
  */
 const sha1 = (s, format) => {
     return hash('sha1', s, format);
-}
+};
 
 /**
  * sha256 编码
@@ -100,7 +100,7 @@ const sha1 = (s, format) => {
  */
 const sha256 = (s, format) => {
     return hash('sha256', s, format);
-}
+};
 
 /**
  * Base64编码.
@@ -110,7 +110,7 @@ const sha256 = (s, format) => {
  * @return {String} base64编码.
  * @public
  */
-const base64encode = (s/*, urlsafe*/) => {
+const base64encode = (s /*, urlsafe*/) => {
     if (!Buffer.isBuffer(s)) {
         s = new Buffer(s);
     }
@@ -128,10 +128,10 @@ const base64encode = (s/*, urlsafe*/) => {
  * @param {String} encode, 需要解码的字符串.
  * @param {Boolean} [urlsafe=false] 是否是url类型，暂时屏蔽.
  * @param {encoding} [encoding=utf8] 字符编码，默认utf8,可选参数
- * @return {String|Buffer} 
+ * @return {String|Buffer}
  * @public
  */
-const base64decode = (encodeStr /*, urlsafe*/ , encoding) => {
+const base64decode = (encodeStr /*, urlsafe*/, encoding) => {
     var urlsafe = false;
     if (urlsafe) {
         encodeStr = encodeStr.replace(/\-/g, '+').replace(/_/g, '/');
@@ -141,7 +141,7 @@ const base64decode = (encodeStr /*, urlsafe*/ , encoding) => {
         return buf;
     }
     return buf.toString(encoding || 'utf8');
-}
+};
 
 /**
  * 对象排序
@@ -161,23 +161,57 @@ const sortObject = o => {
         values.push([k, sortObject(o[k])]);
     }
     return values;
-}
+};
+
+/**
+ * @desc 对象克隆
+ * @Author yupeng
+ * @param {Object} obj  需要克隆的对象.
+ * @return {Object} 克隆出来的对象
+ * @public
+ */
+const clone = obj => {
+    var o;
+    switch (typeof obj) {
+    case 'undefined':
+        break;
+    case 'string':
+        o = obj + '';
+        break;
+    case 'number':
+        o = obj - 0;
+        break;
+    case 'boolean':
+        o = obj;
+        break;
+    case 'object':
+        if (obj === null) {
+            o = null;
+        } else {
+            if (obj instanceof Array) {
+                o = [];
+                for (var i = 0, len = obj.length; i < len; i++) {
+                    o.push(clone(obj[i]));
+                }
+            } else {
+                o = {};
+                for (var k in obj) {
+                    o[k] = clone(obj[k]);
+                }
+            }
+        }
+        break;
+    default:
+        o = obj;
+        break;
+    }
+    return o;
+};
 
 /**
  * 分开导出，用哪个取哪个，引用时需要大括号 ，eg:import {md5,uuid} from 'common/utils',md5('333')
  */
-export {
-    query,
-    queryAll,
-    uuid,
-    uuidV4,
-    sortObject,
-    base64decode,
-    base64encode,
-    sha256,
-    sha1,
-    md5
-}
+export { query, queryAll, uuid, uuidV4, sortObject, base64decode, base64encode, sha256, sha1, md5, clone };
 
 /**
  * 打包导出，会全部引入 ，eg:import utils from 'common/utils'，utils.md5('3333')
@@ -192,5 +226,6 @@ export default {
     base64encode,
     sha256,
     sha1,
-    md5
-}
+    md5,
+    clone
+};
